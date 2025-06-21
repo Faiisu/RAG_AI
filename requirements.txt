@@ -1,7 +1,6 @@
 langchain
 openai
-chromadb
 pypdf
 langchain_community
-langchain_openai
 sentence_transformers
+chromadb
