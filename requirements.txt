@@ -8,5 +8,10 @@ chromadb
 
 #retriver
 arxiv
-os
 requests
+
+#pipeline
+prefect
+jupyter
+notebook
+nbconvert
