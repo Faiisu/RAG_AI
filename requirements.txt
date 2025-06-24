@@ -1,6 +1,5 @@
 #RAG
 langchain
-openai
 pypdf
 langchain_community
 sentence_transformers
