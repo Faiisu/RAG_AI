@@ -1,3 +1,4 @@
 /vectorDB
 /src/ingestion.ipynb
 vectorTF_pipeline.py
+*.env
